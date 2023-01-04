@@ -1,0 +1,43 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.code {
+  border: 1px solid lightgrey;
+  padding: 20px;
+  font-family: Consolas;
+}
+
+.btn-primary {
+  color: #fff;
+  border-color: #1861ac;
+}
+.devtoolheader{
+    min-width: 150px;
+    max-width: 150px;
+}
+.sql {
+    color: blue;
+}
+
+.sql-constraint {
+    color: red;
+}
+
+.sqlgrey {
+    color: grey;
+}
+
+.sqlred {
+    color: red;
+}
+
+.sqlpink {
+    color: hotpink;
+}
+
+.sqlgreen {
+    color: green;
+}
+
